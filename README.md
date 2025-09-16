@@ -47,7 +47,7 @@ python decision_tree_bank.py
 ![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task3/blob/6d20ccd226af048fcc672c185f779819db08ab67/Screenshot%202025-09-16%20123358.png)
 
 ##
-![image alt]()
+![image alt](https://github.com/Srinidhi1009/skillcraft-tech_DS_task3/blob/113398f15353a045d3952f31ed4aac3b97a46b84/Screenshot%202025-09-16%20123511.png)
 
 ## Results
 
